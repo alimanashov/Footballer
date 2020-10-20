@@ -1,0 +1,4 @@
+Библиотеки 
+random
+sqlite3
+PyQt5
